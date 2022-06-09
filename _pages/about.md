@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year PhD candidate in the Department of Electrical Engineering at Arizona State University (ASU), advised by [Dr. Jae-sun Seo](https://faculty.engineering.asu.edu/jseo/). Before joining the direct Ph.D. program at ASU, I completed my Bachelor of Science degree in Electrical Engineering from Portland State University, advised by [Dr. Christopher Teuscher](https://www.teuscher-lab.com/). 
+I am a third-year Ph.D. candidate in the Department of Electrical Engineering at Arizona State University (ASU), advised by [Dr. Jae-sun Seo](https://faculty.engineering.asu.edu/jseo/). Before joining the direct Ph.D. program at ASU, I completed my Bachelor of Science degree in Electrical Engineering from Portland State University, advised by [Dr. Christopher Teuscher](https://www.teuscher-lab.com/). 
 
-I've also spent great time on collaboration/internship with multiple top-tier industrial research facilities and universities, including Texas Instrument, ARM, KAIST, Georgia Tech, and University of Pennsylvania. 
+I've also spent some great time on collaboration/internship with multiple top-tier industrial research facilities and universities, including Texas Instrument, ARM, KAIST, Georgia Tech, and University of Pennsylvania. 
 
 **<span style="color:rgb(72, 145, 240)">My update-to-date resume can be found at [here](https://mengjian0502.github.io/files/resume.pdf)</span>** 
 
@@ -50,7 +50,7 @@ I've also spent great time on collaboration/internship with multiple top-tier in
 
 - 2019.9 - Present --------- Research Assistant, Arizona State University
 - 2022.1 - 2022.5  --------- Teaching Assistant, Arizona State University.
-- 2021.5 - 2021.8  --------- System Engineer Intern, Kilby Lab, Texas Instrument. 
+- 2021.5 - 2021.8  --------- System Engineer, Kilby Lab, Texas Instrument. 
   - Manager: [Hetul Sanghvi](https://www.linkedin.com/in/hetulsanghvi/), [Mahesh Mehendale](https://www.linkedin.com/in/mahesh-mehendale/) 
 - 2018.9 - 2019.5  --------- Teaching Assistant, Portland State University.
 - 2018.1 - 2019.5  --------- Undergraduate Tutor, Portland State University.
