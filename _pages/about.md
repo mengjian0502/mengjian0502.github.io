@@ -12,7 +12,7 @@ I am a third year PhD candidate in the Department of Electrical Engineering at A
 
 I've also spent great time on collaboration/internship with multiple top-tier industrial research facilities and universities, including Texas Instrument, ARM, KAIST, Georgia Tech, and University of Pennsylvania. 
 
-My CV can be found at [here](https://mengjian0502.github.io/files/resume.pdf) 
+**<span style="color:red">My update-to-date resume can be found at [here](https://mengjian0502.github.io/files/resume.pdf)</span>** 
 
 # <img src="../images/education_icon.png" width="55" height="50">Education
 
@@ -42,9 +42,7 @@ My CV can be found at [here](https://mengjian0502.github.io/files/resume.pdf)
 - **[FPL'21]** **<u>Jian Meng</u>**, Shreyas Kolala Venkataramanaiah, Chuteng Zhou, Patrick Hansen, Paul Whatmough and Jae-sun Seo, **"FixyFPGA: Efficient FPGA Accelerator for Deep Neural Networks with High Element-Wise Sparsity and without External Memory Access"**, International Conference on Field Programmable Logic and Applications (FPL), 2021.
 - **<u>[IEEE TCAS-II]</u>** **<u>Jian Meng</u>**, Li Yang, Xiaochen Peng, Shimeng Yu, Deliang Fan, and Jae-sun Seo, “**Structured Pruning of RRAM Crossbars for Efficient In-Memory Computing Acceleration of Deep Neural Networks,**” *IEEE Transactions on Circuits and Systems II (TCAS-II)*, vol. 68, no. 5, pp. 1576-1580, May 2021.
 
-**The full publication list is available [here](https://mengjian0502.github.io/publications/).** 
-
-
+<span style="color:red">**The full publication list is available [here](https://mengjian0502.github.io/publications/)**</span>
 
 # <img src="../images/work_icon.jpg" width="55" height="50"> Work Experience
 
