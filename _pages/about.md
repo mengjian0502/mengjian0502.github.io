@@ -16,9 +16,9 @@ I've also spent great time on collaboration/internship with multiple top-tier in
 
 # <img src="../images/education_icon.png" width="55" height="50">Education
 
-2019 - Present:  -------  Ph.D., Electrical Engineering, [Arizona State University](https://ecee.engineering.asu.edu/), Tempe, USA.
+2019 - Present:  --------  Ph.D., Electrical Engineering, [Arizona State University](https://ecee.engineering.asu.edu/), Tempe, USA.
 
-2016 - 2019:      -------  B.S., Electrical Engineering, [Portland State University](https://www.pdx.edu/engineering/), Portland, USA.
+2016 - 2019:      --------  B.S., Electrical Engineering, [Portland State University](https://www.pdx.edu/engineering/), Portland, USA.
 
 <img src="../images/focus_icon.png" width="55" height="50">Research Focus
 ======
@@ -47,12 +47,12 @@ I've also spent great time on collaboration/internship with multiple top-tier in
 
 # <img src="../images/work_icon.jpg" width="55" height="50"> Work Experience
 
-- 2019.9 - Present ------- Research Assistant, Arizona State University
-- 2022.1 - 2022.5  ------- Teaching Assistant, Arizona State University.
-- 2021.5 - 2021.8  ------- System Engineer Intern, Kilby Lab, Texas Instrument. 
+- 2019.9 - Present -------- Research Assistant, Arizona State University
+- 2022.1 - 2022.5  -------- Teaching Assistant, Arizona State University.
+- 2021.5 - 2021.8  -------- System Engineer Intern, Kilby Lab, Texas Instrument. 
   - Manager: [Hetul Sanghvi](https://www.linkedin.com/in/hetulsanghvi/), [Mahesh Mehendale](https://www.linkedin.com/in/mahesh-mehendale/) 
-- 2018.9 - 2019.5  ------- Teaching Assistant, Portland State University.
-- 2018.1 - 2019.5  ------- Undergraduate Tutor, Portland State University.
+- 2018.9 - 2019.5  -------- Teaching Assistant, Portland State University.
+- 2018.1 - 2019.5  -------- Undergraduate Tutor, Portland State University.
 
 # <img src="../images/service.png" width="55" height="50"> Professional Service
 
