@@ -32,6 +32,9 @@ I've also spent great time on collaboration/internship with multiple top-tier in
 
 <img src="../images/paper_icon.png" width="50" height="50"> Selected Publications
 ======
+
+<span style="color:rgb(72, 145, 240)">**The full publication list is available [here](https://mengjian0502.github.io/publications/)**</span>
+
 - **[CVPR'22]** **<u>Jian Meng</u>**, Li Yang, Jinwoo Shin, Deliang Fan, and Jae-sun Seo, "**Contrastive Dual Gating: Learning Sparse Features With Contrastive Learning**," Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022. [[**poster**](https://mengjian0502.github.io/files/cvpr22_poster_cdg_v3_JM.pdf)]
 - **[ESSCIRC'22]** Shreyas K. Venkataramanaiah, **<u>Jian Meng</u>**, Han-Sok Suh, Injune Yeo, Jyotishman Saikia, Sai Kiran Cherupally, Yichi Zhang, Zhiru Zhang, and Jae-sun Seo, “**A 28nm 8-bit Floating-Point Tensor Core based CNN Training Processor with Dynamic Activation/Weight Sparsification,**” *IEEE European Solid-State Circuits Conference (ESSCIRC)*.
 - **[DAC'22]** Fan Zhang, Li Yang, **<u>Jian Meng</u>**, Jae-sun Seo, Yu Cao, and Deliang Fan, “**XMA: A Crossbar-aware Multi-task Adaption Framework via Shift-based Mask Learning Method,**” *ACM/IEEE Design Automation Conference (DAC)*, 2022. 
@@ -42,8 +45,6 @@ I've also spent great time on collaboration/internship with multiple top-tier in
 - **[FPT'21]** Han-sok Suh, **<u>Jian Meng</u>**, Ty Nguyen, Shreyas K. Venkataramanaiah, Vijay Kumar, Yu Cao, and Jae-sun Seo, "**Algorithm-Hardware Co-Optimization for Energy-Efficient Drone Detection on Resource-Constrained FPGA,**” IEEE International Conference on Field-Programmable Technology (FPT), 2021. ([**link**](https://ieeexplore.ieee.org/document/9609840))
 - **[FPL'21]** **<u>Jian Meng</u>**, Shreyas Kolala Venkataramanaiah, Chuteng Zhou, Patrick Hansen, Paul Whatmough and Jae-sun Seo, **"FixyFPGA: Efficient FPGA Accelerator for Deep Neural Networks with High Element-Wise Sparsity and without External Memory Access"**, International Conference on Field Programmable Logic and Applications (FPL), 2021. ([**link**](https://ieeexplore.ieee.org/document/9556422))
 - **<u>[IEEE TCAS-II]</u>** **<u>Jian Meng</u>**, Li Yang, Xiaochen Peng, Shimeng Yu, Deliang Fan, and Jae-sun Seo, “**Structured Pruning of RRAM Crossbars for Efficient In-Memory Computing Acceleration of Deep Neural Networks,**” *IEEE Transactions on Circuits and Systems II (TCAS-II)*, vol. 68, no. 5, pp. 1576-1580, May 2021. ([**link**](https://ieeexplore.ieee.org/document/9387391))
-
-<span style="color:rgb(72, 145, 240)">**The full publication list is available [here](https://mengjian0502.github.io/publications/)**</span>
 
 # <img src="../images/work_icon.jpg" width="55" height="50"> Work Experience
 
