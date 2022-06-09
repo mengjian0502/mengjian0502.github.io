@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jian Meng"
+title: "Jian Meng @ Seo Lab"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -35,7 +35,7 @@ I've also spent great time on collaboration/internship with multiple top-tier in
 - **[CVPR'22]** **<u>Jian Meng</u>**, Li Yang, Jinwoo Shin, Deliang Fan, and Jae-sun Seo, "**Contrastive Dual Gating: Learning Sparse Features With Contrastive Learning**," Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022. [[**poster**](https://mengjian0502.github.io/files/cvpr22_poster_cdg_v3_JM.pdf)]
 - **[ESSCIRC'22]** Shreyas K. Venkataramanaiah, **<u>Jian Meng</u>**, Han-Sok Suh, Injune Yeo, Jyotishman Saikia, Sai Kiran Cherupally, Yichi Zhang, Zhiru Zhang, and Jae-sun Seo, “**A 28nm 8-bit Floating-Point Tensor Core based CNN Training Processor with Dynamic Activation/Weight Sparsification,**” *IEEE European Solid-State Circuits Conference (ESSCIRC)*.
 - **[DAC'22]** Fan Zhang, Li Yang, **<u>Jian Meng</u>**, Jae-sun Seo, Yu Cao, and Deliang Fan, “**XMA: A Crossbar-aware Multi-task Adaption Framework via Shift-based Mask Learning Method,**” *ACM/IEEE Design Automation Conference (DAC)*, 2022. 
-- **[DATE'22]** Fan Zhang, Li Yang, **Jian Meng**, Jae-sun Seo, Yu Cao and Deliang Fan, “**XST: A Crossbar Column-wise Sparse Training for Efficient Continual Learning,**” IEEE Design, Automation & Test in Europe (DATE) <span style="color:rgb(240, 78, 60)">**[Best IP (Interactive Presentations) Paper Award]**</span>. ([**link**](https://ieeexplore.ieee.org/document/9774660))
+- **[DATE'22]** Fan Zhang, Li Yang, **Jian Meng**, Jae-sun Seo, Yu Cao and Deliang Fan, “**XST: A Crossbar Column-wise Sparse Training for Efficient Continual Learning,**” IEEE Design, Automation & Test in Europe (DATE), 2022. <span style="color:rgb(240, 78, 60)">**[Best IP (Interactive Presentations) Paper Award]**</span>. ([**link**](https://ieeexplore.ieee.org/document/9774660))
 - **[IRPS'22]** **<u>Jian Meng</u>**, Injune Yeo, Wonbo Shim, Li Yang, Deliang Fan, Shimeng Yu, and Jae-sun Seo "**Sparse and Robust RRAM-based Efficient In-memory Computing for DNN Inference**" (IRPS), 2022. ([**link**](https://ieeexplore.ieee.org/document/9764480))
 - **[IEEE MICRO]** **<u>Jian Meng</u>**, Wonbo Shim, Li Yang, Injune Yeo, Deliang Fan, Shimeng Yu, and Jae-sun Seo, “**Temperature-Resilient RRAM-based In-Memory Computing for DNN Inference,**” *IEEE Micro*, vol. 42, no. 1, pp. 89-98, January/February 2022. <span style="color:rgb(240, 78, 60)">**[Invited to IBM Hardware Research Forum]**</span>. ([**link**](https://ieeexplore.ieee.org/document/9647971)) [[**poster**](https://mengjian0502.github.io/files/IBMAI_Fourm_Poster_ASU_Jian_V2.pdf)]
 - **[IEEE JETCAS]** Arnab Neelim Mazumder, **<u>Jian Meng</u>**, Hasib-Al Rashid, Utteja Kallakuri, Xin Zhang, Jae-sun Seo, and Tinoosh Mohsenin, “**A Survey on the Optimization of Neural Network Accelerators for Micro-AI On-Device Inference,**” *IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)*, vol. 11, no. 4, pp. 532-547, December 2021.([**link**](https://ieeexplore.ieee.org/document/9627710))
