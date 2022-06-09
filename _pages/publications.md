@@ -31,7 +31,7 @@ author_profile: true
 
 **[IRPS'22]** Jian Meng, Injune Yeo, Wonbo Shim, Li Yang, Deliang Fan, Shimeng Yu, and Jae-sun Seo, “**Sparse and Robust RRAM-based Efficient** **In-memory Computing for DNN Inference,**” *IEEE International Reliability Physics Symposium (IRPS)*, 2022.
 
-**[DATE'22]** Fan Zhang, Li Yang,  <u>**Jian Meng**</u>, Jae-sun Seo, Yu Cao and Deliang Fan, “**XST: A Crossbar Column-wise Sparse Training for Efficient Continual Learning,**” IEEE Design, Automation \& Test in Europe (DATE), 2022. <span style="color:blue">**[Best IP (Interactive Presentations) Paper Award]**</span>.
+**[DATE'22]** Fan Zhang, Li Yang,  <u>**Jian Meng**</u>, Jae-sun Seo, Yu Cao and Deliang Fan, “**XST: A Crossbar Column-wise Sparse Training for Efficient Continual Learning,**” IEEE Design, Automation \& Test in Europe (DATE), 2022. <span style="color:rgb(240, 78, 60)">**[Best IP (Interactive Presentations) Paper Award]**</span>.([link](https://ieeexplore.ieee.org/document/9774660))
 
 **[ASP-DAC'22]** Fan Zhang, Li Yang, **<u>Jian Meng</u>**, Yu Cao, Jae-sun Seo, and Deliang Fan, “**XBM: A Crossbar Column-wise Binary Mask Learning Method for Efficient Multiple Task Adaption,**” *IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)*, 2022.
 
