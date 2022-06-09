@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jian Meng's Personal website"
+title: "Jian Meng"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,9 +16,8 @@ My CV can be found at [here](https://mengjian0502.github.io/files/resume.pdf)
 
 # <img src="../images/education_icon.png" width="55" height="50">Education
 
-- 2019 - Present            Ph.D., Electrical Engineering, [Arizona State University](https://ecee.engineering.asu.edu/), Tempe, USA. 
-
-- 2016 - 2019                 B.S., Electrical Engineering, [Portland State University](https://www.pdx.edu/engineering/), Portland, USA. 
+- 2019 - Present:             Ph.D., Electrical Engineering, [Arizona State University](https://ecee.engineering.asu.edu/), Tempe, USA. 
+- 2016 - 2019:                  B.S., Electrical Engineering, [Portland State University](https://www.pdx.edu/engineering/), Portland, USA. 
 
 <img src="../images/focus_icon.png" width="55" height="50">Research Focus
 ======
