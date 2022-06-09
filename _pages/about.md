@@ -16,9 +16,9 @@ I've also spent great time on collaboration/internship with multiple top-tier in
 
 # <img src="../images/education_icon.png" width="55" height="50">Education
 
-2019 - Present: <br>Ph.D., Electrical Engineering, [Arizona State University](https://ecee.engineering.asu.edu/), Tempe, USA. 
+2019 - Present: <\br>Ph.D., Electrical Engineering, [Arizona State University](https://ecee.engineering.asu.edu/), Tempe, USA. 
 
-2016 - 2019: <br>B.S., Electrical Engineering, [Portland State University](https://www.pdx.edu/engineering/), Portland, USA. 
+2016 - 2019: <\br>B.S., Electrical Engineering, [Portland State University](https://www.pdx.edu/engineering/), Portland, USA. 
 
 <img src="../images/focus_icon.png" width="55" height="50">Research Focus
 ======
