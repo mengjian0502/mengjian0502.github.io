@@ -8,17 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am an third year PhD candidate in the Department of Electrical Engineering at Arizona State University (ASU), advised by [Dr. Jae-sun Seo](https://faculty.engineering.asu.edu/jseo/). Before joining the direct PhD program at ASU, I completed my Bachelor of Science degree in Electrical Engineering from Portland State University, advised by [Dr. Christopher Teuscher](https://www.teuscher-lab.com/). 
+I am a third year PhD candidate in the Department of Electrical Engineering at Arizona State University (ASU), advised by [Dr. Jae-sun Seo](https://faculty.engineering.asu.edu/jseo/). Before joining the direct Ph.D. program at ASU, I completed my Bachelor of Science degree in Electrical Engineering from Portland State University, advised by [Dr. Christopher Teuscher](https://www.teuscher-lab.com/). 
 
 I've also spent great time on collaboration/internship with multiple top-tier industrial research facilities and universities, including Texas Instrument, ARM, KAIST, Georgia Tech, and University of Pennsylvania. 
 
-My CV can be found at [here](https://mengjian0502.github.io/cv/) 
+My CV can be found at [here](https://mengjian0502.github.io/files/resume.pdf) 
 
 # <img src="../images/education_icon.png" width="55" height="50">Education
 
-- 2019 - Present    Ph.D., Electrical Engineering, [Arizona State University](https://ecee.engineering.asu.edu/), Tempe, USA. 
+- 2019 - Present            Ph.D., Electrical Engineering, [Arizona State University](https://ecee.engineering.asu.edu/), Tempe, USA. 
 
-- 2016 - 2019         B.S., Electrical Engineering, [Portland State University](https://www.pdx.edu/engineering/), Portland, USA. 
+- 2016 - 2019                 B.S., Electrical Engineering, [Portland State University](https://www.pdx.edu/engineering/), Portland, USA. 
 
 <img src="../images/focus_icon.png" width="55" height="50">Research Focus
 ======
