@@ -12,13 +12,13 @@ I am a third year PhD candidate in the Department of Electrical Engineering at A
 
 I've also spent great time on collaboration/internship with multiple top-tier industrial research facilities and universities, including Texas Instrument, ARM, KAIST, Georgia Tech, and University of Pennsylvania. 
 
-**<span style="color:rgb(133, 179, 240)">My update-to-date resume can be found at [here](https://mengjian0502.github.io/files/resume.pdf)</span>** 
+**<span style="color:rgb(72, 145, 240)">My update-to-date resume can be found at [here](https://mengjian0502.github.io/files/resume.pdf)</span>** 
 
 # <img src="../images/education_icon.png" width="55" height="50">Education
 
-2019 - Present:             Ph.D., Electrical Engineering, [Arizona State University](https://ecee.engineering.asu.edu/), Tempe, USA. 
+2019 - Present:  >>           Ph.D., Electrical Engineering, [Arizona State University](https://ecee.engineering.asu.edu/), Tempe, USA. 
 
-2016 - 2019:                  B.S., Electrical Engineering, [Portland State University](https://www.pdx.edu/engineering/), Portland, USA. 
+2016 - 2019:      >>           B.S., Electrical Engineering, [Portland State University](https://www.pdx.edu/engineering/), Portland, USA. 
 
 <img src="../images/focus_icon.png" width="55" height="50">Research Focus
 ======
@@ -35,15 +35,15 @@ I've also spent great time on collaboration/internship with multiple top-tier in
 - **[CVPR'22]** **<u>Jian Meng</u>**, Li Yang, Jinwoo Shin, Deliang Fan, and Jae-sun Seo, "**Contrastive Dual Gating: Learning Sparse Features With Contrastive Learning**," Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022. 
 - **[ESSCIRC'22]** Shreyas K. Venkataramanaiah, **<u>Jian Meng</u>**, Han-Sok Suh, Injune Yeo, Jyotishman Saikia, Sai Kiran Cherupally, Yichi Zhang, Zhiru Zhang, and Jae-sun Seo, “**A 28nm 8-bit Floating-Point Tensor Core based CNN Training Processor with Dynamic Activation/Weight Sparsification,**” *IEEE European Solid-State Circuits Conference (ESSCIRC)*.
 - **[DAC'22]** Fan Zhang, Li Yang, **<u>Jian Meng</u>**, Jae-sun Seo, Yu Cao, and Deliang Fan, “**XMA: A Crossbar-aware Multi-task Adaption Framework via Shift-based Mask Learning Method,**” *ACM/IEEE Design Automation Conference (DAC)*, 2022. 
-- **[DATE'22]** Fan Zhang, Li Yang, **Jian Meng**, Jae-sun Seo, Yu Cao and Deliang Fan, “**XST: A Crossbar Column-wise Sparse Training for Efficient Continual Learning,**” IEEE Design, Automation & Test in Europe (DATE) <span style="color:rgb(240, 122, 117)">**[Best IP (Interactive Presentations) Paper Award]**</span>.
+- **[DATE'22]** Fan Zhang, Li Yang, **Jian Meng**, Jae-sun Seo, Yu Cao and Deliang Fan, “**XST: A Crossbar Column-wise Sparse Training for Efficient Continual Learning,**” IEEE Design, Automation & Test in Europe (DATE) <span style="color:rgb(240, 78, 60)">**[Best IP (Interactive Presentations) Paper Award]**</span>.
 - **[IRPS'22]** **<u>Jian Meng</u>**, Injune Yeo, Wonbo Shim, Li Yang, Deliang Fan, Shimeng Yu, and Jae-sun Seo "**Sparse and Robust RRAM-based Efficient In-memory Computing for DNN Inference**" (IRPS), 2022.
-- **[IEEE MICRO]** **<u>Jian Meng</u>**, Wonbo Shim, Li Yang, Injune Yeo, Deliang Fan, Shimeng Yu, and Jae-sun Seo, “**Temperature-Resilient RRAM-based In-Memory Computing for DNN Inference,**” *IEEE Micro*, vol. 42, no. 1, pp. 89-98, January/February 2022. <span style="color:rgb(240, 122, 117)">**[Invited to IBM Hardware Research Forum]**</span>.
+- **[IEEE MICRO]** **<u>Jian Meng</u>**, Wonbo Shim, Li Yang, Injune Yeo, Deliang Fan, Shimeng Yu, and Jae-sun Seo, “**Temperature-Resilient RRAM-based In-Memory Computing for DNN Inference,**” *IEEE Micro*, vol. 42, no. 1, pp. 89-98, January/February 2022. <span style="color:rgb(240, 78, 60)">**[Invited to IBM Hardware Research Forum]**</span>.
 - **[IEEE JETCAS]** Arnab Neelim Mazumder, **<u>Jian Meng</u>**, Hasib-Al Rashid, Utteja Kallakuri, Xin Zhang, Jae-sun Seo, and Tinoosh Mohsenin, “**A Survey on the Optimization of Neural Network Accelerators for Micro-AI On-Device Inference,**” *IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)*, vol. 11, no. 4, pp. 532-547, December 2021.
 - **[FPT'21]** Han-sok Suh, **<u>Jian Meng</u>**, Ty Nguyen, Shreyas K. Venkataramanaiah, Vijay Kumar, Yu Cao, and Jae-sun Seo, "**Algorithm-Hardware Co-Optimization for Energy-Efficient Drone Detection on Resource-Constrained FPGA,**” IEEE International Conference on Field-Programmable Technology (FPT), 2021.
 - **[FPL'21]** **<u>Jian Meng</u>**, Shreyas Kolala Venkataramanaiah, Chuteng Zhou, Patrick Hansen, Paul Whatmough and Jae-sun Seo, **"FixyFPGA: Efficient FPGA Accelerator for Deep Neural Networks with High Element-Wise Sparsity and without External Memory Access"**, International Conference on Field Programmable Logic and Applications (FPL), 2021.
 - **<u>[IEEE TCAS-II]</u>** **<u>Jian Meng</u>**, Li Yang, Xiaochen Peng, Shimeng Yu, Deliang Fan, and Jae-sun Seo, “**Structured Pruning of RRAM Crossbars for Efficient In-Memory Computing Acceleration of Deep Neural Networks,**” *IEEE Transactions on Circuits and Systems II (TCAS-II)*, vol. 68, no. 5, pp. 1576-1580, May 2021.
 
-<span style="color:rgb(133, 179, 240)">**The full publication list is available [here](https://mengjian0502.github.io/publications/)**</span>
+<span style="color:rgb(72, 145, 240)">**The full publication list is available [here](https://mengjian0502.github.io/publications/)**</span>
 
 # <img src="../images/work_icon.jpg" width="55" height="50"> Work Experience
 
