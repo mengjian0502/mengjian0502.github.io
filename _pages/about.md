@@ -31,7 +31,7 @@ My CV can be found at [here](https://mengjian0502.github.io/cv/)
 - **[CVPR'22]** **<u>Jian Meng</u>**, Li Yang, Jinwoo Shin, Deliang Fan, and Jae-sun Seo, "**Contrastive Dual Gating: Learning Sparse Features With Contrastive Learning**," Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022. 
 - **[ESSCIRC'22]** Shreyas K. Venkataramanaiah, **<u>Jian Meng</u>**, Han-Sok Suh, Injune Yeo, Jyotishman Saikia, Sai Kiran Cherupally, Yichi Zhang, Zhiru Zhang, and Jae-sun Seo, “**A 28nm 8-bit Floating-Point Tensor Core based CNN Training Processor with Dynamic Activation/Weight Sparsification,**” *IEEE European Solid-State Circuits Conference (ESSCIRC)*.
 - **[DAC'22]** Fan Zhang, Li Yang, **<u>Jian Meng</u>**, Jae-sun Seo, Yu Cao, and Deliang Fan, “**XMA: A Crossbar-aware Multi-task Adaption Framework via Shift-based Mask Learning Method,**” *ACM/IEEE Design Automation Conference (DAC)*, 2022. 
-- **[DATE'22]** Fan Zhang, Li Yang,  <u>**Jian Meng**</u>, Jae-sun Seo, Yu Cao and Deliang Fan, “**XST: A Crossbar Column-wise Sparse Training for Efficient Continual Learning,**” IEEE Design, Automation \& Test in Europe (DATE) <span style="color:blue">**[Best IP (Interactive Presentations) Paper Award]**</span>.
+- **[DATE'22]** Fan Zhang, Li Yang, **<u>Jian Meng</u>**, Jae-sun Seo, Yu Cao and Deliang Fan, “**XST: A Crossbar Column-wise Sparse Training for Efficient Continual Learning,**” IEEE Design, Automation & Test in Europe (DATE) <span style="color:blue">**[Best IP (Interactive Presentations) Paper Award]**</span>.
 - **[IRPS'22]** **<u>Jian Meng</u>**, Injune Yeo, Wonbo Shim, Li Yang, Deliang Fan, Shimeng Yu, and Jae-sun Seo "**Sparse and Robust RRAM-based Efficient In-memory Computing for DNN Inference**" (IRPS), 2022.
 - **[IEEE MICRO]** **<u>Jian Meng</u>**, Wonbo Shim, Li Yang, Injune Yeo, Deliang Fan, Shimeng Yu, and Jae-sun Seo, “**Temperature-Resilient RRAM-based In-Memory Computing for DNN Inference,**” *IEEE Micro*, vol. 42, no. 1, pp. 89-98, January/February 2022. <span style="color:blue">**[Invited to IBM Hardware Research Forum]**</span>.
 - **[IEEE JETCAS]** Arnab Neelim Mazumder, **<u>Jian Meng</u>**, Hasib-Al Rashid, Utteja Kallakuri, Xin Zhang, Jae-sun Seo, and Tinoosh Mohsenin, “**A Survey on the Optimization of Neural Network Accelerators for Micro-AI On-Device Inference,**” *IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)*, vol. 11, no. 4, pp. 532-547, December 2021.
@@ -70,6 +70,6 @@ My CV can be found at [here](https://mengjian0502.github.io/cv/)
 - **Arizona State University**
   - **Teaching Assistant** for EEE 598: [Neuromorphic Computing Hardware Design](https://webapp4.asu.edu/bookstore/viewsyllabus/2221/21655), Spring 2022.
 - **Portland State University**
-  - **Teaching Assistant** for ECE 510: [Mathematical Foundation of Machine Learning](http://web.cecs.pdx.edu/~lipor/courses/516/) , Spring 2019.
+  - **Teaching Assistant** for ECE 510: [Mathematical Foundation of Machine Learning](http://web.cecs.pdx.edu/~lipor/courses/516/), Spring 2019.
   - **Teaching Assistant** for ECE 221/2/3: Circuit Design I/II/III. Fall 2018 - Spring 2019.
 
