@@ -48,7 +48,8 @@ I've also spent some great time on collaboration/internship with multiple top-ti
 
 # <img src="../images/work_icon.jpg" width="55" height="50"> Work Experience
 
-- 2019.9 - Present --------- Research Assistant, Arizona State University
+- 2019.9 - Present --------- Research Assistant, [Seo Lab](https://faculty.engineering.asu.edu/jseo/), Arizona State University
+  - Advisor: [Dr. Jae-sun Seo](https://www.linkedin.com/in/jae-sun-seo-21062717/)
 - 2022.1 - 2022.5  --------- Teaching Assistant, Arizona State University.
 - 2021.5 - 2021.8  --------- System Engineer, Kilby Lab, Texas Instrument. 
   - Manager: [Hetul Sanghvi](https://www.linkedin.com/in/hetulsanghvi/), [Mahesh Mehendale](https://www.linkedin.com/in/mahesh-mehendale/) 
