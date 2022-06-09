@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jian Meng @ Seo Lab"
+title: "Jian Meng @ ASU"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
