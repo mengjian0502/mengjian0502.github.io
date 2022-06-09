@@ -37,7 +37,7 @@ author_profile: true
 
 **[FPT'21]** Han-sok Suh, **<u>Jian Meng</u>**, Ty Nguyen, Shreyas K. Venkataramanaiah, Vijay Kumar, Yu Cao, and Jae-sun Seo, "**Algorithm-Hardware Co-Optimization for Energy-Efficient Drone Detection on Resource-Constrained FPGA,**” IEEE International Conference on Field-Programmable Technology (FPT), 2021.
 
-**[FPL'21]** **<u>Jian Meng</u>**, Shreyas Kolala Venkataramanaiah, Chuteng Zhou, Patrick Hansen, Paul Whatmough and Jae-sun Seo, "FixyFPGA: Efficient FPGA Accelerator for Deep Neural Networks with High Element-Wise Sparsity and without External Memory Access", International Conference on Field Programmable Logic and Applications (FPL), 2021.
+**[FPL'21]** **<u>Jian Meng</u>**, Shreyas Kolala Venkataramanaiah, Chuteng Zhou, Patrick Hansen, Paul Whatmough and Jae-sun Seo, **"FixyFPGA: Efficient FPGA Accelerator for Deep Neural Networks with High Element-Wise Sparsity and without External Memory Access"**, International Conference on Field Programmable Logic and Applications (FPL), 2021.
 
 **[IRPS'21]** Wonbo Shim, Jian Meng, Xiaochen Peng, Jae-sun Seo, and Shimeng Yu, “**Impact of Multilevel Retention Characteristics on RRAM based DNN Inference Engine,**” *IEEE International Reliability Physics Symposium (IRPS)*, 2021.
 
