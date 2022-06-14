@@ -27,9 +27,9 @@ author_profile: true
 
 **[IRPS'22]** **<u>Jian Meng</u>**, Injune Yeo, Wonbo Shim, Li Yang, Deliang Fan, Shimeng Yu, and Jae-sun Seo "**Sparse and Robust RRAM-based Efficient In-memory Computing for DNN Inference**" (IRPS), 2022. ([**link**](https://ieeexplore.ieee.org/document/9764480))
 
-**[CICC'22]** Bo Zhang, Jyotishman Saikia, Jian Meng, Dewei Wang, Soonwan Kwon, Sungmeen Myung, Hyunsoo Kim, Sang Joon Kim, Jae-sun Seo, and Mingoo Seok, “**A 177 TOPS/W, Capacitor-based In-Memory Computing SRAM Macro with Stepwise-Charging/Discharging DACs and Sparsity-Optimized Bitcells for 4-Bit Deep Convolutional Neural Networks,**” *IEEE Custom Integrated Circuits Conference (CICC)*, 2022. ([**link**](https://ieeexplore.ieee.org/document/9772781))
+**[CICC'22]** Bo Zhang, Jyotishman Saikia, **<u>Jian Meng</u>**, Dewei Wang, Soonwan Kwon, Sungmeen Myung, Hyunsoo Kim, Sang Joon Kim, Jae-sun Seo, and Mingoo Seok, “**A 177 TOPS/W, Capacitor-based In-Memory Computing SRAM Macro with Stepwise-Charging/Discharging DACs and Sparsity-Optimized Bitcells for 4-Bit Deep Convolutional Neural Networks,**” *IEEE Custom Integrated Circuits Conference (CICC)*, 2022. ([**link**](https://ieeexplore.ieee.org/document/9772781))
 
-**[IRPS'22]** Jian Meng, Injune Yeo, Wonbo Shim, Li Yang, Deliang Fan, Shimeng Yu, and Jae-sun Seo, “**Sparse and Robust RRAM-based Efficient** **In-memory Computing for DNN Inference,**” *IEEE International Reliability Physics Symposium (IRPS)*, 2022. ([**link**](https://ieeexplore.ieee.org/document/9764480))
+**[IRPS'22]** **<u>Jian Meng</u>**, Injune Yeo, Wonbo Shim, Li Yang, Deliang Fan, Shimeng Yu, and Jae-sun Seo, “**Sparse and Robust RRAM-based Efficient** **In-memory Computing for DNN Inference,**” *IEEE International Reliability Physics Symposium (IRPS)*, 2022. ([**link**](https://ieeexplore.ieee.org/document/9764480))
 
 **[DATE'22]** Fan Zhang, Li Yang, **Jian Meng**, Jae-sun Seo, Yu Cao and Deliang Fan, “**XST: A Crossbar Column-wise Sparse Training for Efficient Continual Learning,**” IEEE Design, Automation & Test in Europe (DATE), 2022. <span style="color:rgb(240, 78, 60)">**[Best IP (Interactive Presentations) Paper Award]**</span>.([**link**](https://ieeexplore.ieee.org/document/9774660))
 
@@ -39,11 +39,11 @@ author_profile: true
 
 **[FPL'21]** **<u>Jian Meng</u>**, Shreyas Kolala Venkataramanaiah, Chuteng Zhou, Patrick Hansen, Paul Whatmough and Jae-sun Seo, **"FixyFPGA: Efficient FPGA Accelerator for Deep Neural Networks with High Element-Wise Sparsity and without External Memory Access"**, International Conference on Field Programmable Logic and Applications (FPL), 2021. ([**link**](https://ieeexplore.ieee.org/document/9556422))
 
-**[IRPS'21]** Wonbo Shim, Jian Meng, Xiaochen Peng, Jae-sun Seo, and Shimeng Yu, “**Impact of Multilevel Retention Characteristics on RRAM based DNN Inference Engine,**” *IEEE International Reliability Physics Symposium (IRPS)*, 2021. ([**link**](https://ieeexplore.ieee.org/document/9405210))
+**[IRPS'21]** Wonbo Shim, **<u>Jian Meng</u>**, Xiaochen Peng, Jae-sun Seo, and Shimeng Yu, “**Impact of Multilevel Retention Characteristics on RRAM based DNN Inference Engine,**” *IEEE International Reliability Physics Symposium (IRPS)*, 2021. ([**link**](https://ieeexplore.ieee.org/document/9405210))
 
-**[DATE'21]** Jyotishman Saikia, Shihui Yin, Bo Zhang, Jian Meng, Mingoo Seok and Jae-sun Seo, **“Modeling and Optimization of SRAM-based In-Memory Computing Hardware Design,”** *IEEE Design, Automation & Test in Europe (DATE)*, February 2021. ([**link**](https://ieeexplore.ieee.org/document/9473973))
+**[DATE'21]** Jyotishman Saikia, Shihui Yin, Bo Zhang, **<u>Jian Meng</u>**, Mingoo Seok and Jae-sun Seo, **“Modeling and Optimization of SRAM-based In-Memory Computing Hardware Design,”** *IEEE Design, Automation & Test in Europe (DATE)*, February 2021. ([**link**](https://ieeexplore.ieee.org/document/9473973))
 
-**[INTERSPEECH'20]** Deepak Kadetotad, Jian Meng, Visar Berisha, Chaitali Chakrabarti, and Jae-sun Seo, “**Compressing LSTM Networks with Hierarchical Coarse-Grain Sparsity,**” *INTERSPEECH*, 2020. ([**link**](http://www.interspeech2020.org/index.php?m=content&c=index&a=show&catid=243&id=311))
+**[INTERSPEECH'20]** Deepak Kadetotad, **<u>Jian Meng</u>**, Visar Berisha, Chaitali Chakrabarti, and Jae-sun Seo, “**Compressing LSTM Networks with Hierarchical Coarse-Grain Sparsity,**” *INTERSPEECH*, 2020. ([**link**](http://www.interspeech2020.org/index.php?m=content&c=index&a=show&catid=243&id=311))
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
