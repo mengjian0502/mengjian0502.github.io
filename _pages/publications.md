@@ -7,6 +7,8 @@ author_profile: true
 
 ## Journal Publications
 
+**[IEEE SSCM]** Jae-sun Seo, Jyotishman Saikia, Jian Meng, Wangxin He, Han-sok Suh, Anupreetham, Yuan Liao, Ahmed Hasssan, and Injune Yeo, “**Advances in Digital vs. Analog AI Accelerators,**” *IEEE Solid-State Circuits Magazine*, 2022
+
 **[IEEE D&T]** Sai Kiran Cherupally, **<u>Jian Meng</u>**, Adnan Siraj Rakin, Shihui Yin, Mingoo Seok, Deliang Fan, and Jae-sun Seo, “**Improving DNN Hardware Accuracy by In-Memory Computing Noise Injection,**” *IEEE Design & Test*, 2022. ([**link**](https://ieeexplore.ieee.org/document/9663371))
 
 **[IEEE JETCAS]** Arnab Neelim Mazumder, **<u>Jian Meng</u>**, Hasib-Al Rashid, Utteja Kallakuri, Xin Zhang, Jae-sun Seo, and Tinoosh Mohsenin, “**A Survey on the Optimization of Neural Network Accelerators for Micro-AI On-Device Inference,**” *IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)*, vol. 11, no. 4, pp. 532-547, December 2021. ([**link**](https://ieeexplore.ieee.org/document/9627710))

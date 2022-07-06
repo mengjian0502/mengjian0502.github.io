@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. candidate in the Department of Electrical Engineering at Arizona State University (ASU), advised by [Dr. Jae-sun Seo](https://faculty.engineering.asu.edu/jseo/). Before joining the direct Ph.D. program at ASU, I completed my Bachelor of Science degree in Electrical Engineering from Portland State University, advised by [Dr. Christopher Teuscher](https://www.teuscher-lab.com/). 
+I am a third-year Ph.D. candidate in the Department of Electrical Engineering at Arizona State University (ASU), advised by [Dr. Jae-sun Seo](https://faculty.engineering.asu.edu/jseo/). Before joining the direct Ph.D. program at ASU, I received my Bachelor of Science degree in Electrical Engineering from Portland State University, advised by [Dr. Christopher Teuscher](https://www.teuscher-lab.com/). 
 
 I've also spent some great time on collaboration/internship with multiple top-tier industrial research facilities and universities, including Texas Instrument, ARM, KAIST, Georgia Tech, and University of Pennsylvania. 
 
@@ -36,6 +36,7 @@ I've also spent some great time on collaboration/internship with multiple top-ti
 <span style="color:rgb(72, 145, 240)">**The full publication list is available [here](https://mengjian0502.github.io/publications/)**</span>
 
 - **[CVPR'22]** **<u>Jian Meng</u>**, Li Yang, Jinwoo Shin, Deliang Fan, and Jae-sun Seo, "**Contrastive Dual Gating: Learning Sparse Features With Contrastive Learning**," Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022. ([**link**](https://openaccess.thecvf.com/content/CVPR2022/html/Meng_Contrastive_Dual_Gating_Learning_Sparse_Features_With_Contrastive_Learning_CVPR_2022_paper.html)) [[**poster**](https://mengjian0502.github.io/files/cvpr22_poster_cdg_v3_JM.pdf)]
+- **[IEEE SSCM]** Jae-sun Seo, Jyotishman Saikia, Jian Meng, Wangxin He, Han-sok Suh, Anupreetham, Yuan Liao, Ahmed Hasssan, and Injune Yeo, “**Advances in Digital vs. Analog AI Accelerators,**” *IEEE Solid-State Circuits Magazine*, 2022
 - **[ESSCIRC'22]** Shreyas K. Venkataramanaiah, **<u>Jian Meng</u>**, Han-Sok Suh, Injune Yeo, Jyotishman Saikia, Sai Kiran Cherupally, Yichi Zhang, Zhiru Zhang, and Jae-sun Seo, “**A 28nm 8-bit Floating-Point Tensor Core based CNN Training Processor with Dynamic Activation/Weight Sparsification,**” *IEEE European Solid-State Circuits Conference (ESSCIRC)*.
 - **[DAC'22]** Fan Zhang, Li Yang, **<u>Jian Meng</u>**, Jae-sun Seo, Yu Cao, and Deliang Fan, “**XMA: A Crossbar-aware Multi-task Adaption Framework via Shift-based Mask Learning Method,**” *ACM/IEEE Design Automation Conference (DAC)*, 2022. 
 - **[DATE'22]** Fan Zhang, Li Yang, **Jian Meng**, Jae-sun Seo, Yu Cao and Deliang Fan, “**XST: A Crossbar Column-wise Sparse Training for Efficient Continual Learning,**” IEEE Design, Automation & Test in Europe (DATE), 2022. <span style="color:rgb(240, 78, 60)">**[Best IP (Interactive Presentations) Paper Award]**</span>. ([**link**](https://ieeexplore.ieee.org/document/9774660))
