@@ -23,7 +23,7 @@ author_profile: true
 
 *= Equal contribution
 
-**[NeurIPS'22]** Li Yang$^*$, **<u>Jian Meng</u>$^*$** , Deliang Fan, Jae-sun Seo, "Get More at Once: Alternating Sparse Training with Gradient Correction", Thirty-Sixth Conference on Neural Information Processing Systems, 2022.  
+**[NeurIPS'22]** **<u>Jian Meng</u>$^*$**, Li Yang$^*$ , Deliang Fan, Jae-sun Seo, "Get More at Once: Alternating Sparse Training with Gradient Correction", Thirty-Sixth Conference on Neural Information Processing Systems, 2022.  
 
 **[ESSCIRC'22]** Shreyas K. Venkataramanaiah, **<u>Jian Meng</u>**, Han-Sok Suh, Injune Yeo, Jyotishman Saikia, Sai Kiran Cherupally, Yichi Zhang, Zhiru Zhang, and Jae-sun Seo, “**A 28nm 8-bit Floating-Point Tensor Core based CNN Training Processor with Dynamic Activation/Weight Sparsification,**” *IEEE European Solid-State Circuits Conference (ESSCIRC)*, 2022.
 
