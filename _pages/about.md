@@ -37,7 +37,7 @@ I've also spent some great time on collaboration/internship with multiple top-ti
 
 *= Equal contribution
 
-- **[NeurIPS'22]**  **Jian Meng$^*$,** Li Yang$^*$, Deliang Fan, Jae-sun Seo, "Get More at Once: Alternating Sparse Training with Gradient Correction", Thirty-Sixth Conference on Neural Information Processing Systems, 2022.   
+- **[NeurIPS'22]**  **Jian Meng\*,** Li Yang\*, Deliang Fan, Jae-sun Seo, "Get More at Once: Alternating Sparse Training with Gradient Correction", Thirty-Sixth Conference on Neural Information Processing Systems, 2022.   
 
 - **[CVPR'22]** **<u>Jian Meng</u>**, Li Yang, Jinwoo Shin, Deliang Fan, and Jae-sun Seo, "**Contrastive Dual Gating: Learning Sparse Features With Contrastive Learning**," Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022. ([**link**](https://openaccess.thecvf.com/content/CVPR2022/html/Meng_Contrastive_Dual_Gating_Learning_Sparse_Features_With_Contrastive_Learning_CVPR_2022_paper.html)) [[**poster**](https://mengjian0502.github.io/files/cvpr22_poster_cdg_v3_JM.pdf)]
 - **[IEEE SSCM]** Jae-sun Seo, Jyotishman Saikia, **<u>Jian Meng</u>**, Wangxin He, Han-sok Suh, Anupreetham, Yuan Liao, Ahmed Hasssan, and Injune Yeo, “**Advances in Digital vs. Analog AI Accelerators,**” *IEEE Solid-State Circuits Magazine*, 2022
