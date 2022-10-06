@@ -12,7 +12,7 @@ I am a third-year Ph.D. candidate in the Department of Electrical Engineering at
 
 I've also spent some great time on collaboration/internship with multiple top-tier industrial research facilities and universities, including Texas Instrument, ARM, KAIST, Georgia Tech, and University of Pennsylvania. 
 
-**<span style="color:rgb(72, 145, 240)">My update-to-date resume can be found at [here](https://mengjian0502.github.io/files/resume.pdf)</span>** 
+**<span style="color:rgb(72, 145, 240)">My update-to-date resume can be found at [here](https://mengjian0502.github.io/files/resume.pdf)</span>**
 
 # <img src="../images/education_icon.png" width="55" height="50">Education
 
@@ -28,7 +28,9 @@ I've also spent some great time on collaboration/internship with multiple top-ti
 - Spiking neural network; Event-based computer vision. 
 - Energy-efficient neural network accelerator hardware design.
 
+# <img src="../images/tools.png" width="50" height="50"> Open-sourced Tools:
 
+- **Torch2Chip: End-to-end solution for deep learning model deployment with customized compression algorithm [link](https://github.com/SeoLabASU/Torch2Chip)**
 
 <img src="../images/paper_icon.png" width="50" height="50"> Selected Publications
 ======
