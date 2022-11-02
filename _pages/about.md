@@ -30,7 +30,7 @@ I've also spent some great time on collaboration/internship with multiple top-ti
 
 # <img src="../images/tools.png" width="50" height="50"> Open-sourced Tools:
 
-- **Torch2Chip**: End-to-end solution for deep learning model deployment with customized compression algorithm [link](https://github.com/SeoLabASU/Torch2Chip)
+- **Torch2Chip**: End-to-end solution for deep learning model deployment with customized compression algorithm ([**link**](https://github.com/SeoLabASU/Torch2Chip)) 
 
 <img src="../images/paper_icon.png" width="50" height="50"> Selected Publications
 ======
