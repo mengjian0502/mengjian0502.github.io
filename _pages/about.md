@@ -39,13 +39,14 @@ I've also spent some great time on collaboration/internship with multiple top-ti
 
 *= Equal contribution
 
-- **[NeurIPS'22]**  **Jian Meng\*,** Li Yang\*, Deliang Fan, Jae-sun Seo, "Get More at Once: Alternating Sparse Training with Gradient Correction", Thirty-Sixth Conference on Neural Information Processing Systems, 2022. ([**link**](https://openreview.net/pdf?id=lYZQRpqLesi))([**code**](https://github.com/mengjian0502/AST))   
-
+- **[ACM TRET]** Han-sok Suh, **<u>Jian Meng</u>**, Ty Nguyen, Vijay Kumar, Yu Cao, and Jae-sun Seo, "Algorithm-Hardware Co-Optimization for Energy-Efficient Drone Detection on Resource-Constrained FPGA", ACM Transactions on Reconfigurable Technology and Systems.
+- **[DATE'22]** Wangxin He, **<u>Jian Meng</u>**, Sujan Kumar Gonugondla, Shimeng Yu, Naresh R. Shanbhag, and Jae-sun Seo, "PRIVE: Efficient RRAM Programming with Chip Verification for RRAM-based In-Memory Computing Acceleration", Design, Automation and Test in Europe Conference (DATE), 2023.
+- **[NeurIPS'22]**  **<u>Jian Meng</u>\*,** Li Yang\*, Deliang Fan, Jae-sun Seo, "Get More at Once: Alternating Sparse Training with Gradient Correction", Thirty-Sixth Conference on Neural Information Processing Systems, 2022. ([**link**](https://openreview.net/pdf?id=lYZQRpqLesi))([**code**](https://github.com/mengjian0502/AST))   
 - **[CVPR'22]** **<u>Jian Meng</u>**, Li Yang, Jinwoo Shin, Deliang Fan, and Jae-sun Seo, "**Contrastive Dual Gating: Learning Sparse Features With Contrastive Learning**," Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022. ([**link**](https://openaccess.thecvf.com/content/CVPR2022/html/Meng_Contrastive_Dual_Gating_Learning_Sparse_Features_With_Contrastive_Learning_CVPR_2022_paper.html)) [[**poster**](https://mengjian0502.github.io/files/cvpr22_poster_cdg_v3_JM.pdf)] <span style="color:rgb(240, 78, 60)">**[Invited to IBM AI Hardware Research Forum]**</span>
 - **[IEEE SSCM]** Jae-sun Seo, Jyotishman Saikia, **<u>Jian Meng</u>**, Wangxin He, Han-sok Suh, Anupreetham, Yuan Liao, Ahmed Hasssan, and Injune Yeo, “**Advances in Digital vs. Analog AI Accelerators,**” *IEEE Solid-State Circuits Magazine*, 2022
 - **[ESSCIRC'22]** Shreyas K. Venkataramanaiah, **<u>Jian Meng</u>**, Han-Sok Suh, Injune Yeo, Jyotishman Saikia, Sai Kiran Cherupally, Yichi Zhang, Zhiru Zhang, and Jae-sun Seo, “**A 28nm 8-bit Floating-Point Tensor Core based CNN Training Processor with Dynamic Activation/Weight Sparsification,**” *IEEE European Solid-State Circuits Conference (ESSCIRC)*.
 - **[DAC'22]** Fan Zhang, Li Yang, **<u>Jian Meng</u>**, Jae-sun Seo, Yu Cao, and Deliang Fan, “**XMA: A Crossbar-aware Multi-task Adaption Framework via Shift-based Mask Learning Method,**” *ACM/IEEE Design Automation Conference (DAC)*, 2022. 
-- **[DATE'22]** Fan Zhang, Li Yang, **Jian Meng**, Jae-sun Seo, Yu Cao and Deliang Fan, “**XST: A Crossbar Column-wise Sparse Training for Efficient Continual Learning,**” IEEE Design, Automation & Test in Europe (DATE), 2022. <span style="color:rgb(240, 78, 60)">**[Best IP (Interactive Presentations) Paper Award]**</span>. ([**link**](https://ieeexplore.ieee.org/document/9774660))
+- **[DATE'22]** Fan Zhang, Li Yang, <u>**Jian Meng**</u>, Jae-sun Seo, Yu Cao and Deliang Fan, “**XST: A Crossbar Column-wise Sparse Training for Efficient Continual Learning,**” IEEE Design, Automation & Test in Europe (DATE), 2022. <span style="color:rgb(240, 78, 60)">**[Best IP (Interactive Presentations) Paper Award]**</span>. ([**link**](https://ieeexplore.ieee.org/document/9774660))
 - **[IRPS'22]** **<u>Jian Meng</u>**, Injune Yeo, Wonbo Shim, Li Yang, Deliang Fan, Shimeng Yu, and Jae-sun Seo "**Sparse and Robust RRAM-based Efficient In-memory Computing for DNN Inference**" (IRPS), 2022. ([**link**](https://ieeexplore.ieee.org/document/9764480))
 - **[IEEE MICRO]** **<u>Jian Meng</u>**, Wonbo Shim, Li Yang, Injune Yeo, Deliang Fan, Shimeng Yu, and Jae-sun Seo, “**Temperature-Resilient RRAM-based In-Memory Computing for DNN Inference,**” *IEEE Micro*, vol. 42, no. 1, pp. 89-98, January/February 2022. <span style="color:rgb(240, 78, 60)">**[Invited to IBM AI Hardware Research Forum]**</span>. ([**link**](https://ieeexplore.ieee.org/document/9647971)) [[**poster**](https://mengjian0502.github.io/files/IBMAI_Fourm_Poster_ASU_Jian_V2.pdf)]
 - **[IEEE JETCAS]** Arnab Neelim Mazumder, **<u>Jian Meng</u>**, Hasib-Al Rashid, Utteja Kallakuri, Xin Zhang, Jae-sun Seo, and Tinoosh Mohsenin, “**A Survey on the Optimization of Neural Network Accelerators for Micro-AI On-Device Inference,**” *IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)*, vol. 11, no. 4, pp. 532-547, December 2021.([**link**](https://ieeexplore.ieee.org/document/9627710))
@@ -55,6 +56,7 @@ I've also spent some great time on collaboration/internship with multiple top-ti
 
 # <img src="../images/work_icon.jpg" width="55" height="50"> Work Experience
 
+- **Upcoming: Summer 2023** --------- Research Scientist, Meta Reality Lab
 - 2019.9 - Present --------- Research Assistant, [Seo Lab](https://faculty.engineering.asu.edu/jseo/), Arizona State University
   - Advisor: [Dr. Jae-sun Seo](https://www.linkedin.com/in/jae-sun-seo-21062717/)
 - 2022.1 - 2022.5  --------- Teaching Assistant, Arizona State University.
@@ -66,11 +68,12 @@ I've also spent some great time on collaboration/internship with multiple top-ti
 # <img src="../images/service.png" width="55" height="50"> Professional Service
 
 - **Journal Reviewer**
+  - 2023 **Reviewer** of Conference on Computer Vision and Pattern Recognition (CVPR)
   - 2022 **Reviewer** of IEEE Journal of Exploratory Solid-State Computational Devices and Circuits
-  - 2022 **Reviewer** of IEEE Transactions on Neural Networks and Learning Systems.
-  - 2021 **Reviewer** of ACM Transactions on Reconfigurable Technology and Systems.
-  - 2021 **Reviewer** of IEEE Transactions on Circuits and Systems II: Express Briefs.
-  - 2021 **Reviewer** of IEEE Journal on Emerging and Selected Topics in Circuits and Systems.
+  - 2022 **Reviewer** of IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
+  - 2021 **Reviewer** of ACM Transactions on Reconfigurable Technology and Systems (TRET).
+  - 2021 **Reviewer** of IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II).
+  - 2021 **Reviewer** of IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS).
   
 - **Conference Reviewer** 
   - 2021 **Reviewer** of Artificial Intelligence Circuits and Systems.

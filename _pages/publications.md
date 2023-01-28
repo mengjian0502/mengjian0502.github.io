@@ -7,6 +7,8 @@ author_profile: true
 
 ## Journal Publications
 
+**[ACM TRET]** Han-sok Suh, **<u>Jian Meng</u>**, Ty Nguyen, Vijay Kumar, Yu Cao, and Jae-sun Seo, "Algorithm-Hardware Co-Optimization for Energy-Efficient Drone Detection on Resource-Constrained FPGA", ACM Transactions on Reconfigurable Technology and Systems.
+
 **[IEEE SSCM]** Jae-sun Seo, Jyotishman Saikia, Jian Meng, Wangxin He, Han-sok Suh, Anupreetham, Yuan Liao, Ahmed Hasssan, and Injune Yeo, “**Advances in Digital vs. Analog AI Accelerators,**” *IEEE Solid-State Circuits Magazine*, 2022
 
 **[IEEE D&T]** Sai Kiran Cherupally, **<u>Jian Meng</u>**, Adnan Siraj Rakin, Shihui Yin, Mingoo Seok, Deliang Fan, and Jae-sun Seo, “**Improving DNN Hardware Accuracy by In-Memory Computing Noise Injection,**” *IEEE Design & Test*, 2022. ([**link**](https://ieeexplore.ieee.org/document/9663371))
@@ -22,6 +24,8 @@ author_profile: true
 ## Conference Publications
 
 *= Equal contribution
+
+**[DATE'22]** Wangxin He, **<u>Jian Meng</u>**, Sujan Kumar Gonugondla, Shimeng Yu, Naresh R. Shanbhag, and Jae-sun Seo, "PRIVE: Efficient RRAM Programming with Chip Verification for RRAM-based In-Memory Computing Acceleration", Design, Automation and Test in Europe Conference (DATE), 2023.
 
 **[Asilomar'22]** Ahmed Hasssan, Jian Meng, Yu Cao, and Jae-sun Seo, "**Spatial-temporal data compression of dynamic vision sensor output with high pixel-level saliency using low-precision sparse autoencoder**", *Asilomar Conference on Signals, Systems, and Computers*, 2022. 
 
