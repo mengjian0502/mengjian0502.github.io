@@ -25,7 +25,7 @@ author_profile: true
 
 *= Equal contribution
 
-**[DATE'22]** Wangxin He, **<u>Jian Meng</u>**, Sujan Kumar Gonugondla, Shimeng Yu, Naresh R. Shanbhag, and Jae-sun Seo, "PRIVE: Efficient RRAM Programming with Chip Verification for RRAM-based In-Memory Computing Acceleration", Design, Automation and Test in Europe Conference (DATE), 2023.
+**[DATE'23]** Wangxin He, **<u>Jian Meng</u>**, Sujan Kumar Gonugondla, Shimeng Yu, Naresh R. Shanbhag, and Jae-sun Seo, "PRIVE: Efficient RRAM Programming with Chip Verification for RRAM-based In-Memory Computing Acceleration", Design, Automation and Test in Europe Conference (DATE), 2023.
 
 **[Asilomar'22]** Ahmed Hasssan, Jian Meng, Yu Cao, and Jae-sun Seo, "**Spatial-temporal data compression of dynamic vision sensor output with high pixel-level saliency using low-precision sparse autoencoder**", *Asilomar Conference on Signals, Systems, and Computers*, 2022. 
 
