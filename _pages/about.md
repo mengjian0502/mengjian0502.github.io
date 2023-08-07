@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jian Meng @ ASU"
+title: "Jian Meng @ Cornell"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,15 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. candidate in the Department of Electrical Engineering at Arizona State University (ASU), advised by [Dr. Jae-sun Seo](https://faculty.engineering.asu.edu/jseo/). Before joining the direct Ph.D. program at ASU, I received my Bachelor of Science degree in Electrical Engineering from Portland State University, advised by [Dr. Christopher Teuscher](https://www.teuscher-lab.com/). 
+I am a fifth-year Ph.D. candidate in the Department of Electrical Engineering at Cornell (Tech), advised by [Dr. Jae-sun Seo](https://faculty.engineering.asu.edu/jseo/). I received my Bachelor of Science degree in Electrical Engineering from Portland State University, advised by [Dr. Christopher Teuscher](https://www.teuscher-lab.com/). 
 
-I've also spent some great time on collaboration/internship with multiple top-tier industrial research facilities and universities, including Texas Instrument, ARM, KAIST, Georgia Tech, and University of Pennsylvania. 
+I've also spent some great time on collaboration/internship with multiple top-tier industrial research facilities and universities, including Meta Reality Lab, Texas Instrument, ARM, KAIST, Georgia Tech, and University of Pennsylvania. 
 
 **<span style="color:rgb(72, 145, 240)">My update-to-date resume can be found at [here](https://mengjian0502.github.io/files/resume.pdf)</span>**
 
 # <img src="../images/education_icon.png" width="55" height="50">Education
 
-2019 - Present:  ---------  Ph.D., Electrical Engineering, [Arizona State University](https://ecee.engineering.asu.edu/), Tempe, USA.
+2023 - present:  ---------  Ph.D., Electrical Engineering, [Cornell University](https://www.csl.cornell.edu/), New York City, USA.
+
+2019 - 2023:  ---------  Ph.D., Electrical Engineering, [Arizona State University](https://ecee.engineering.asu.edu/), Tempe, USA.
 
 2016 - 2019:      ---------  B.S., Electrical Engineering, [Portland State University](https://www.pdx.edu/engineering/), Portland, USA.
 
@@ -31,6 +33,8 @@ I've also spent some great time on collaboration/internship with multiple top-ti
 # <img src="../images/tools.png" width="50" height="50"> Open-sourced Tools:
 
 - **Torch2Chip**: End-to-end solution for deep learning model deployment with customized compression algorithm ([**link**](https://github.com/SeoLabASU/Torch2Chip)) 
+
+  [Source code and document will be released soon]
 
 <img src="../images/paper_icon.png" width="50" height="50"> Selected Publications
 ======
@@ -56,8 +60,10 @@ I've also spent some great time on collaboration/internship with multiple top-ti
 
 # <img src="../images/work_icon.jpg" width="55" height="50"> Work Experience
 
-- **Upcoming: Summer 2023** --------- Research Scientist, Meta Reality Lab
-- 2019.9 - Present --------- Research Assistant, [Seo Lab](https://faculty.engineering.asu.edu/jseo/), Arizona State University
+- 2023.5 - 2023.8 --------- Research Scientist, Meta Reality Lab
+  - Manager: Yuecheng Li
+
+- 2019.9 - Present --------- Research Assistant, [Seo Lab](https://faculty.engineering.asu.edu/jseo/), Arizona State University / Cornell University
   - Advisor: [Dr. Jae-sun Seo](https://www.linkedin.com/in/jae-sun-seo-21062717/)
 - 2022.1 - 2022.5  --------- Teaching Assistant, Arizona State University.
 - 2021.5 - 2021.8  --------- System Engineer, Kilby Lab, Texas Instrument. 
@@ -67,18 +73,15 @@ I've also spent some great time on collaboration/internship with multiple top-ti
 
 # <img src="../images/service.png" width="55" height="50"> Professional Service
 
-- **Journal Reviewer**
-  - 2023 **Reviewer** of Conference on Computer Vision and Pattern Recognition (CVPR)
+- **Reviewer**
+  
+  - 2023 **Reviewer** of NeurIPS, CVPR, TNNLS
   - 2022 **Reviewer** of IEEE Journal of Exploratory Solid-State Computational Devices and Circuits
-  - 2022 **Reviewer** of IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
   - 2021 **Reviewer** of ACM Transactions on Reconfigurable Technology and Systems (TRET).
   - 2021 **Reviewer** of IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II).
   - 2021 **Reviewer** of IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS).
   
-- **Conference Reviewer** 
-  - 2021 **Reviewer** of Artificial Intelligence Circuits and Systems.
-
-
+  
 
 # <img src="../images/teacher.png" width="55" height="50"> Teaching Experience
 
