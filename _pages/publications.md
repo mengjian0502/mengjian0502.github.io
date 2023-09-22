@@ -7,6 +7,10 @@ author_profile: true
 
 ## Journal Publications
 
+**[IEEE JSSC]** Shreyas Kolala Venkataramanaiah, Jian Meng, Han-Sok Suh, Injune Yeo, Jyotishman Saikia, Sai Kiran Cherupally, Yichi Zhang, Zhiru Zhang, Jae-Sun Seo, "A 28-nm 8-bit Floating-Point Tensor Core-Based Programmable CNN Training Processor With Dynamic Structured Sparsity", *IEEE Journal of Solid-State Circuits, vol. 58, no.7,* 2023 ([**link**](https://ieeexplore.ieee.org/abstract/document/10124223))
+
+**[2D Materials]** Sahra Afshari, Sritharini Radhakrishnan, Jing Xie, Mirembe Musisi-Nkambwe, Jian Meng, Wangxin He, Jae-sun Seo, Ivan Sanchez Esqueda, "Dot-product computation and logistic regression with 2D hexagonal-Boron Nitride (h-BN) memristor arrays", *2D Materials, vol.10, no.3*, 2023 ([**link**](https://iopscience.iop.org/article/10.1088/2053-1583/acdfe1/meta))
+
 **[ACM TRET]** Han-sok Suh, **<u>Jian Meng</u>**, Ty Nguyen, Vijay Kumar, Yu Cao, and Jae-sun Seo, "Algorithm-Hardware Co-Optimization for Energy-Efficient Drone Detection on Resource-Constrained FPGA", ACM Transactions on Reconfigurable Technology and Systems.
 
 **[IEEE SSCM]** Jae-sun Seo, Jyotishman Saikia, Jian Meng, Wangxin He, Han-sok Suh, Anupreetham, Yuan Liao, Ahmed Hasssan, and Injune Yeo, “**Advances in Digital vs. Analog AI Accelerators,**” *IEEE Solid-State Circuits Magazine*, 2022
@@ -24,6 +28,8 @@ author_profile: true
 ## Conference Publications
 
 *= Equal contribution
+
+**[NeurIPS'23]**  **<u>Jian Meng</u>,** Li Yang, Kyungmin Lee, Jinwoo Shin, Deliang Fan, Jae-sun Seo, "Slimmed Asymmetrical Contrastive Learning and Cross Distillation for Lightweight Model Training", Thirty-Seventh Conference on Neural Information Processing Systems, 2023.   
 
 **[DATE'23]** Wangxin He, **<u>Jian Meng</u>**, Sujan Kumar Gonugondla, Shimeng Yu, Naresh R. Shanbhag, and Jae-sun Seo, "PRIVE: Efficient RRAM Programming with Chip Verification for RRAM-based In-Memory Computing Acceleration", Design, Automation and Test in Europe Conference (DATE), 2023.
 

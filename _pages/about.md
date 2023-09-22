@@ -32,7 +32,7 @@ I've also spent some great time on collaboration/internship with multiple top-ti
 
 # <img src="../images/tools.png" width="50" height="50"> Open-sourced Tools:
 
-- **Torch2Chip**: End-to-end solution for deep learning model deployment with customized compression algorithm ([**link**](https://github.com/SeoLabASU/Torch2Chip)) 
+- **Torch2Chip**: End-to-end solution for deep learning model deployment with customized compression algorithm
 
   [Source code and document will be released soon]
 
@@ -43,6 +43,7 @@ I've also spent some great time on collaboration/internship with multiple top-ti
 
 *= Equal contribution
 
+- **[NeurIPS'23]**  **<u>Jian Meng</u>,** Li Yang, Kyungmin Lee, Jinwoo Shin, Deliang Fan, Jae-sun Seo, "Slimmed Asymmetrical Contrastive Learning and Cross Distillation for Lightweight Model Training", Thirty-Seventh Conference on Neural Information Processing Systems, 2023.   
 - **[NeurIPS'22]**  **<u>Jian Meng</u>\*,** Li Yang\*, Deliang Fan, Jae-sun Seo, "Get More at Once: Alternating Sparse Training with Gradient Correction", Thirty-Sixth Conference on Neural Information Processing Systems, 2022. ([**link**](https://openreview.net/pdf?id=lYZQRpqLesi))([**code**](https://github.com/mengjian0502/AST))   
 - **[CVPR'22]** **<u>Jian Meng</u>**, Li Yang, Jinwoo Shin, Deliang Fan, and Jae-sun Seo, "**Contrastive Dual Gating: Learning Sparse Features With Contrastive Learning**," Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022. ([**link**](https://openaccess.thecvf.com/content/CVPR2022/html/Meng_Contrastive_Dual_Gating_Learning_Sparse_Features_With_Contrastive_Learning_CVPR_2022_paper.html)) [[**poster**](https://mengjian0502.github.io/files/cvpr22_poster_cdg_v3_JM.pdf)] <span style="color:rgb(240, 78, 60)">**[Invited to IBM AI Hardware Research Forum]**</span>
 - **[ACM TRET]** Han-sok Suh, **<u>Jian Meng</u>**, Ty Nguyen, Vijay Kumar, Yu Cao, and Jae-sun Seo, "Algorithm-Hardware Co-Optimization for Energy-Efficient Drone Detection on Resource-Constrained FPGA", ACM Transactions on Reconfigurable Technology and Systems.
@@ -75,7 +76,7 @@ I've also spent some great time on collaboration/internship with multiple top-ti
 
 - **Reviewer**
   
-  - 2023 **Reviewer** of NeurIPS, CVPR, TNNLS
+  - 2023 **Reviewer** of NeurIPS, CVPR, ICCV, ICLR, TNNLS
   - 2022 **Reviewer** of IEEE Journal of Exploratory Solid-State Computational Devices and Circuits
   - 2021 **Reviewer** of ACM Transactions on Reconfigurable Technology and Systems (TRET).
   - 2021 **Reviewer** of IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II).
