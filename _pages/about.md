@@ -43,6 +43,7 @@ I've also spent some great time on collaboration/internship with multiple top-ti
 
 *= Equal contribution
 
+- **[MLSys'24]**  Jian Meng, Yuan Liao, Anupreetham Anupreetham, Ahmed Hasssan, Shixing Yu, Han-sok Suh, Xiaofeng Hu, and Jae-sun Seo, "Torch2Chip: An End-to-end Customizable Deep Neural Network Compression and Deployment Toolkit for Prototype Hardware Accelerator Design", The Seventh Annual Conference on Machine Learning and Systems, 2024.
 - **[NeurIPS'23]**  **<u>Jian Meng</u>,** Li Yang, Kyungmin Lee, Jinwoo Shin, Deliang Fan, Jae-sun Seo, "Slimmed Asymmetrical Contrastive Learning and Cross Distillation for Lightweight Model Training", Thirty-Seventh Conference on Neural Information Processing Systems, 2023.   
 - **[NeurIPS'22]**  **<u>Jian Meng</u>\*,** Li Yang\*, Deliang Fan, Jae-sun Seo, "Get More at Once: Alternating Sparse Training with Gradient Correction", Thirty-Sixth Conference on Neural Information Processing Systems, 2022. ([**link**](https://openreview.net/pdf?id=lYZQRpqLesi))([**code**](https://github.com/mengjian0502/AST))   
 - **[CVPR'22]** **<u>Jian Meng</u>**, Li Yang, Jinwoo Shin, Deliang Fan, and Jae-sun Seo, "**Contrastive Dual Gating: Learning Sparse Features With Contrastive Learning**," Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022. ([**link**](https://openaccess.thecvf.com/content/CVPR2022/html/Meng_Contrastive_Dual_Gating_Learning_Sparse_Features_With_Contrastive_Learning_CVPR_2022_paper.html)) [[**poster**](https://mengjian0502.github.io/files/cvpr22_poster_cdg_v3_JM.pdf)] <span style="color:rgb(240, 78, 60)">**[Invited to IBM AI Hardware Research Forum]**</span>
@@ -76,7 +77,7 @@ I've also spent some great time on collaboration/internship with multiple top-ti
 
 - **Reviewer**
   
-  - 2023 **Reviewer** of NeurIPS, CVPR, ICCV, ICLR, TNNLS
+  -  **Reviewer** of NeurIPS (2022, 2023), CVPR (2023, 2024), ICCV (2023), ICLR (2023), TNNLS (2022, 2023)
   - 2022 **Reviewer** of IEEE Journal of Exploratory Solid-State Computational Devices and Circuits
   - 2021 **Reviewer** of ACM Transactions on Reconfigurable Technology and Systems (TRET).
   - 2021 **Reviewer** of IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II).
@@ -86,9 +87,12 @@ I've also spent some great time on collaboration/internship with multiple top-ti
 
 # <img src="../images/teacher.png" width="55" height="50"> Teaching Experience
 
+- **Cornell University:**
+  - Teaching Assistant for ECE 6790: Neuromorphic Computing Hardware Design, Sp24
+  
 - **Arizona State University**
-  - **Teaching Assistant** for EEE 598: [Neuromorphic Computing Hardware Design](https://webapp4.asu.edu/bookstore/viewsyllabus/2221/21655), Spring 2022.
+  - **Teaching Assistant** for EEE 598: [Neuromorphic Computing Hardware Design](https://webapp4.asu.edu/bookstore/viewsyllabus/2221/21655), Sp22.
 - **Portland State University**
-  - **Teaching Assistant** for ECE 510: [Mathematical Foundation of Machine Learning](http://web.cecs.pdx.edu/~lipor/courses/516/), Spring 2019.
-  - **Teaching Assistant** for ECE 221/2/3: Circuit Design I/II/III. Fall 2018 - Spring 2019.
+  - **Teaching Assistant** for ECE 510: [Mathematical Foundation of Machine Learning](http://web.cecs.pdx.edu/~lipor/courses/516/), Spr19.
+  - **Teaching Assistant** for ECE 221/2/3: Circuit Design I/II/III. FA18 - Sp19.
 
