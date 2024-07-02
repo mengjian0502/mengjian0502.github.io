@@ -43,9 +43,7 @@ I've also spent some great time on collaboration/internship with multiple top-ti
 
 *= Equal contribution
 
-- **[ECCV'24]** <u>**Jian Meng**</u>, Yuecheng Li, Chenghui Li, Syed Shakib Sarwar, Dilin Wang, and Jae-sun Seo, “POCA: Post-training
-
-  Quantization with Temporal Alignment for Codec Avatars,” ECCV, 2024. <span style="color:rgb(240, 78, 60)">**[Collaborated with Meta Reality Lab]**</span>.
+- **[ECCV'24]** **<u>Jian Meng</u>**, Yuecheng Li, Chenghui Li, Syed Shakib Sarwar, Dilin Wang, and Jae-sun Seo, “POCA: Post-training Quantization with Temporal Alignment for Codec Avatars,” ECCV, 2024. <span style="color:rgb(240, 78, 60)">**[Collaborated with Meta Reality Lab]**</span>.
 
 - **[IJCNN'24]** Ahmed Hasssan, **<u>Jian Meng</u>**, and Jae-sun Seo, “**Spiking Neural Network with Learnable Threshold for Event-Based Classification and Object Detection**,” IEEE International Joint Conference on Neural Networks (IJCNN).
 
