@@ -112,7 +112,7 @@ I've also spent some great time on collaboration/internship with multiple top-ti
 # <img src="../images/teacher.png" width="55" height="50"> Teaching Experience
 
 - **Cornell University:**
-  - Teaching Assistant for ECE 6790: Neuromorphic Computing Hardware Design, Sp24
+  - **Teaching Assistant** for ECE 6790: Neuromorphic Computing Hardware Design, Sp24
   
 - **Arizona State University**
   - **Teaching Assistant** for EEE 598: [Neuromorphic Computing Hardware Design](https://webapp4.asu.edu/bookstore/viewsyllabus/2221/21655), Sp22.
