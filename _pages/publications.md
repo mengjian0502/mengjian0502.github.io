@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Journal Publications
+**[Front NeuralSci'24]** Ahmed Hasssan, **<u>Jian Meng</u>**, Anupreetham, and Jae-sun Seo, “SpQuant-SNN: Ultra-low Precision Membrane Potential with Sparse Activations Unlock the Potential of On-device Spiking Neural Networks Applications,” Frontiers of Neuroscience, 2024.
 
 **[ACM TRET]** Han-sok Suh, **<u>Jian Meng</u>**, Ty Nguyen, Vijay Kumar, Yu Cao, and Jae-sun Seo, "Algorithm-Hardware Co-Optimization for Energy-Efficient Drone Detection on Resource-Constrained FPGA", ACM Transactions on Reconfigurable Technology and Systems.
 
@@ -45,6 +46,8 @@ author_profile: true
 - **[IJCNN'24]** Ahmed Hasssan, **<u>Jian Meng</u>**, and Jae-sun Seo, “**Spiking Neural Network with Learnable Threshold for Event-Based Classification and Object Detection**,” IEEE International Joint Conference on Neural Networks (IJCNN).
 
 - **[ICONS'24]** Ahmed Hasssan, **<u>Jian Meng</u>**, Anupreetham and Jae-sun Seo, “**IM-SNN: Memory-Efficient Spiking Neural Network with Low-Precision Membrane Potentials and Weights**,” ACM International Conference on Neuromorphic Systems (ICONS), 2024.
+
+- **[ISLPED'24]** Yuan Liao, **<u>Jian Meng</u>** and Jae-sun Seo, “A 28nm Scalable and Flexible Accelerator for Sparse Transformer Models,” ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), 2024. <span style="color:rgb(240, 78, 60)">**[Best Paper Candidate]**</span>
 
 - **[MLSys'24]**  **<u>Jian Meng</u>**, Yuan Liao, Anupreetham Anupreetham, Ahmed Hasssan, Shixing Yu, Han-sok Suh, Xiaofeng Hu, and Jae-sun Seo, "Torch2Chip: An End-to-end Customizable Deep Neural Network Compression and Deployment Toolkit for Prototype Hardware Accelerator Design", The Seventh Annual Conference on Machine Learning and Systems, 2024.
 
