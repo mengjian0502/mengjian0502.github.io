@@ -42,8 +42,17 @@ I've also spent some great time on collaboration/internship with multiple top-ti
 <span style="color:rgb(72, 145, 240)">**The full publication list is available [here](https://mengjian0502.github.io/publications/)**</span>
 
 *= Equal contribution
+- **[CVPR'25]** **<u>Jian Meng</u>**, Ahmed Hasssan, Li Yang, Deliang Fan, Jinwoo Shin, and Jae-sun Seo, “Closest Neighbors are Harmful for Lightweight Masked Auto-encoders,” IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
+
+- **[ISCAS'25]** Han-sok Suh, **<u>Jian Meng</u>**, and Jae-sun Seo, “Low-Precision Normalization Algorithm and Accelerator for Neural Network Training,” IEEE International Symposium on Circuits and Systems (ISCAS), 2025.
+
+- **[CICC'25]** Xiaofeng Hu*, HanGyeol Mun*, **<u>Jian Meng</u>**, Yuan Liao, Amitesh Sridharan, and Jae-sun Seo, “A 28nm 20.9-137.2 TOPS/W Output-Stationary SRAM Compute-in-Memory Macro Featuring Dynamic Look-ahead Zero Weight Skipping and Runtime Partial Sum Quantization,” IEEE Custom Integrated Circuits Conference (CICC), 2025.
+
+- **[ICASSP'25]** Ahmed Hasssan, Anupreetham Anupreetham, **<u>Jian Meng</u>**, and Jae-sun Seo, “Quant-NeRF: Efficient End-to-End Quantization of Neural Radiance Fields with Low-Precision 3D Gaussian Representation,” IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2025.
 
 - **[ECCV'24]** **<u>Jian Meng</u>**, Yuecheng Li, Chenghui Li, Syed Shakib Sarwar, Dilin Wang, and Jae-sun Seo, “POCA: Post-training Quantization with Temporal Alignment for Codec Avatars,” ECCV, 2024. <span style="color:rgb(240, 78, 60)">**[Collaborated with Meta Reality Lab]**</span>.
+
+- **[MICRO'25]** Yuzong Chen, **<u>Jian Meng</u>**, Jae-sun Seo, and Mohamed Abdelfattah, “BBS: Bi-directional Bit-level Sparsity for Deep Learning Acceleration,” IEEE/ACM International Symposium on Microarchitecture (MICRO), 2024.
 
 - **[IJCNN'24]** Ahmed Hasssan, **<u>Jian Meng</u>**, and Jae-sun Seo, “**Spiking Neural Network with Learnable Threshold for Event-Based Classification and Object Detection**,” IEEE International Joint Conference on Neural Networks (IJCNN).
 
