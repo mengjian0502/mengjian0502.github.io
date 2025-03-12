@@ -16,7 +16,7 @@ I've also spent some great time on collaboration/internship with multiple top-ti
 
 # <img src="../images/education_icon.png" width="55" height="50">Education
 
-2023 - present:  ---------  Ph.D., Electrical Engineering, [Cornell University](https://www.csl.cornell.edu/), New York City, USA.
+2023 - 2025:  ---------  Ph.D., Electrical Engineering, [Cornell University](https://www.csl.cornell.edu/), New York City, USA.
 
 2019 - 2023:  ---------  Ph.D., Electrical Engineering, [Arizona State University](https://ecee.engineering.asu.edu/), Tempe, USA.
 
@@ -24,6 +24,8 @@ I've also spent some great time on collaboration/internship with multiple top-ti
 
 <img src="../images/focus_icon.png" width="55" height="50">Research Focus
 ======
+- Energy-efficient Large Language Model.
+- Drivable 3D Computer Vision, Codec Avatar. 
 - Energy-efficient contrastive unsupervised learning.
 - Hardware-aware neuromorphic algorithm design. 
 - Neural Network compression and sparsification.
@@ -46,7 +48,7 @@ I've also spent some great time on collaboration/internship with multiple top-ti
 
 - **[ISCAS'25]** Han-sok Suh, **<u>Jian Meng</u>**, and Jae-sun Seo, “Low-Precision Normalization Algorithm and Accelerator for Neural Network Training,” IEEE International Symposium on Circuits and Systems (ISCAS), 2025.
 
-- **[CICC'25]** Xiaofeng Hu*, HanGyeol Mun*, **<u>Jian Meng</u>**, Yuan Liao, Amitesh Sridharan, and Jae-sun Seo, “A 28nm 20.9-137.2 TOPS/W Output-Stationary SRAM Compute-in-Memory Macro Featuring Dynamic Look-ahead Zero Weight Skipping and Runtime Partial Sum Quantization,” IEEE Custom Integrated Circuits Conference (CICC), 2025.
+- **[CICC'25]** Xiaofeng Hu\*, HanGyeol Mun\*, **<u>Jian Meng</u>**, Yuan Liao, Amitesh Sridharan, and Jae-sun Seo, “A 28nm 20.9-137.2 TOPS/W Output-Stationary SRAM Compute-in-Memory Macro Featuring Dynamic Look-ahead Zero Weight Skipping and Runtime Partial Sum Quantization,” IEEE Custom Integrated Circuits Conference (CICC), 2025.
 
 - **[ICASSP'25]** Ahmed Hasssan, Anupreetham Anupreetham, **<u>Jian Meng</u>**, and Jae-sun Seo, “Quant-NeRF: Efficient End-to-End Quantization of Neural Radiance Fields with Low-Precision 3D Gaussian Representation,” IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2025.
 
