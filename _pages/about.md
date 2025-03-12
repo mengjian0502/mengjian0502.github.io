@@ -94,7 +94,7 @@ I've also spent some great time on collaboration/internship with multiple top-ti
 
 # <img src="../images/work_icon.jpg" width="55" height="50"> Work Experience
 
-- 2024.5 - 2024.8 --------- Research Scientist, Meta Reality Lab
+- 2024.5 - 2024.12 --------- Research Scientist, Meta Reality Lab
   - Manager: Yuecheng Li
 
 - 2023.5 - 2023.8 --------- Research Scientist, Meta Reality Lab
