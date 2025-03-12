@@ -7,6 +7,8 @@ author_profile: true
 
 ## Journal Publications
 
+**[ACM TRET]** Han-sok Suh, **<u>Jian Meng</u>**, Ty Nguyen, Vijay Kumar, Yu Cao, and Jae-sun Seo, "Algorithm-Hardware Co-Optimization for Energy-Efficient Drone Detection on Resource-Constrained FPGA", ACM Transactions on Reconfigurable Technology and Systems.
+
 **[IEEE JSSC]** Shreyas Kolala Venkataramanaiah, Jian Meng, Han-Sok Suh, Injune Yeo, Jyotishman Saikia, Sai Kiran Cherupally, Yichi Zhang, Zhiru Zhang, Jae-Sun Seo, "A 28-nm 8-bit Floating-Point Tensor Core-Based Programmable CNN Training Processor With Dynamic Structured Sparsity", *IEEE Journal of Solid-State Circuits, vol. 58, no.7,* 2023 ([**link**](https://ieeexplore.ieee.org/abstract/document/10124223))
 
 **[2D Materials]** Sahra Afshari, Sritharini Radhakrishnan, Jing Xie, Mirembe Musisi-Nkambwe, Jian Meng, Wangxin He, Jae-sun Seo, Ivan Sanchez Esqueda, "Dot-product computation and logistic regression with 2D hexagonal-Boron Nitride (h-BN) memristor arrays", *2D Materials, vol.10, no.3*, 2023 ([**link**](https://iopscience.iop.org/article/10.1088/2053-1583/acdfe1/meta))
@@ -28,6 +30,23 @@ author_profile: true
 ## Conference Publications
 
 *= Equal contribution
+- **[CVPR'25]** **<u>Jian Meng</u>**, Ahmed Hasssan, Li Yang, Deliang Fan, Jinwoo Shin, and Jae-sun Seo, “Closest Neighbors are Harmful for Lightweight Masked Auto-encoders,” IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
+
+- **[ISCAS'25]** Han-sok Suh, **<u>Jian Meng</u>**, and Jae-sun Seo, “Low-Precision Normalization Algorithm and Accelerator for Neural Network Training,” IEEE International Symposium on Circuits and Systems (ISCAS), 2025.
+
+- **[CICC'25]** Xiaofeng Hu\*, HanGyeol Mun\*, **<u>Jian Meng</u>**, Yuan Liao, Amitesh Sridharan, and Jae-sun Seo, “A 28nm 20.9-137.2 TOPS/W Output-Stationary SRAM Compute-in-Memory Macro Featuring Dynamic Look-ahead Zero Weight Skipping and Runtime Partial Sum Quantization,” IEEE Custom Integrated Circuits Conference (CICC), 2025.
+
+- **[ICASSP'25]** Ahmed Hasssan, Anupreetham Anupreetham, **<u>Jian Meng</u>**, and Jae-sun Seo, “Quant-NeRF: Efficient End-to-End Quantization of Neural Radiance Fields with Low-Precision 3D Gaussian Representation,” IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2025.
+
+- **[ECCV'24]** **<u>Jian Meng</u>**, Yuecheng Li, Chenghui Li, Syed Shakib Sarwar, Dilin Wang, and Jae-sun Seo, “POCA: Post-training Quantization with Temporal Alignment for Codec Avatars,” ECCV, 2024. <span style="color:rgb(240, 78, 60)">**[Collaborated with Meta Reality Lab]**</span>.
+
+- **[MICRO'25]** Yuzong Chen, **<u>Jian Meng</u>**, Jae-sun Seo, and Mohamed Abdelfattah, “BBS: Bi-directional Bit-level Sparsity for Deep Learning Acceleration,” IEEE/ACM International Symposium on Microarchitecture (MICRO), 2024.
+
+- **[IJCNN'24]** Ahmed Hasssan, **<u>Jian Meng</u>**, and Jae-sun Seo, “**Spiking Neural Network with Learnable Threshold for Event-Based Classification and Object Detection**,” IEEE International Joint Conference on Neural Networks (IJCNN).
+
+- **[ICONS'24]** Ahmed Hasssan, **<u>Jian Meng</u>**, Anupreetham and Jae-sun Seo, “**IM-SNN: Memory-Efficient Spiking Neural Network with Low-Precision Membrane Potentials and Weights**,” ACM International Conference on Neuromorphic Systems (ICONS), 2024.
+
+- **[MLSys'24]**  **<u>Jian Meng</u>**, Yuan Liao, Anupreetham Anupreetham, Ahmed Hasssan, Shixing Yu, Han-sok Suh, Xiaofeng Hu, and Jae-sun Seo, "Torch2Chip: An End-to-end Customizable Deep Neural Network Compression and Deployment Toolkit for Prototype Hardware Accelerator Design", The Seventh Annual Conference on Machine Learning and Systems, 2024.
 
 **[NeurIPS'23]**  **<u>Jian Meng</u>,** Li Yang, Kyungmin Lee, Jinwoo Shin, Deliang Fan, Jae-sun Seo, "Slimmed Asymmetrical Contrastive Learning and Cross Distillation for Lightweight Model Training", Thirty-Seventh Conference on Neural Information Processing Systems, 2023.   
 
