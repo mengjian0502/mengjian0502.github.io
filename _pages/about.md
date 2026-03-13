@@ -45,7 +45,7 @@ I've also spent some great time on collaboration/internship with multiple top-ti
 
 *= Equal contribution
 
-- **[ICLR'26]** Zhanqiu Hu*, Jian Meng*, Yash Akhauri, Mohamed S. Abdelfattah, Jae-sun Seo, Zhiru Zhang, and Udit Gupta, “**FlashDLM: Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion**,” *International Conference on Learning Representations (ICLR)*, 2026,
+- **[ICLR'26]** Zhanqiu Hu\*, Jian Meng\*, Yash Akhauri, Mohamed S. Abdelfattah, Jae-sun Seo, Zhiru Zhang, and Udit Gupta, “**FlashDLM: Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion**,” *International Conference on Learning Representations (ICLR)*, 2026,
 
 - **[CVPR'25]** **<u>Jian Meng</u>**, Ahmed Hasssan, Li Yang, Deliang Fan, Jinwoo Shin, and Jae-sun Seo, “Closest Neighbors are Harmful for Lightweight Masked Auto-encoders,” IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
 
