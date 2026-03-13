@@ -44,6 +44,9 @@ I've also spent some great time on collaboration/internship with multiple top-ti
 <span style="color:rgb(72, 145, 240)">**The full publication list is available [here](https://mengjian0502.github.io/publications/)**</span>
 
 *= Equal contribution
+
+- **[ICLR'26]** Zhanqiu Hu*, Jian Meng*, Yash Akhauri, Mohamed S. Abdelfattah, Jae-sun Seo, Zhiru Zhang, and Udit Gupta, “**FlashDLM: Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion**,” *International Conference on Learning Representations (ICLR)*, 2026,
+
 - **[CVPR'25]** **<u>Jian Meng</u>**, Ahmed Hasssan, Li Yang, Deliang Fan, Jinwoo Shin, and Jae-sun Seo, “Closest Neighbors are Harmful for Lightweight Masked Auto-encoders,” IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
 
 - **[ISCAS'25]** Han-sok Suh, **<u>Jian Meng</u>**, and Jae-sun Seo, “Low-Precision Normalization Algorithm and Accelerator for Neural Network Training,” IEEE International Symposium on Circuits and Systems (ISCAS), 2025.
